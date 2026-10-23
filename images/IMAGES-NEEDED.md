@@ -1,0 +1,61 @@
+# Images to replace before launch
+
+All JPEGs in this folder are neutral, labeled placeholders. Replace each file in place with an approved shop photo; keep the filename. The current placeholders are sized for the intended rendered use.
+- `images/hero/hero.jpg` ? 1920 ? 1080px; Wide mechanic working under a vehicle hood in a clean, dark garage; desktop hero image.
+- `images/hero/hero-mobile.jpg` ? 800 ? 1000px; Portrait crop of a mechanic working under a vehicle hood; mobile hero image.
+- `images/logo/logo.jpg` ? 256 ? 256px; Square shop logo on a simple high-contrast background.
+- `images/services/engine-diagnostics.jpg` ? 800 ? 600px; Technician diagnosing an engine with scan equipment; service card photo.
+- `images/thumbnails/engine-diagnostics.jpg` ? 160 ? 160px; Technician diagnosing an engine with scan equipment; square service thumbnail.
+- `images/services/brake-service.jpg` ? 800 ? 600px; Close-up mechanic inspecting brake rotor and pads; service card photo.
+- `images/thumbnails/brake-service.jpg` ? 160 ? 160px; Close-up mechanic inspecting brake rotor and pads; square service thumbnail.
+- `images/services/oil-change.jpg` ? 800 ? 600px; Technician performing an oil and fluid service; service card photo.
+- `images/thumbnails/oil-change.jpg` ? 160 ? 160px; Technician performing an oil and fluid service; square service thumbnail.
+- `images/services/transmission.jpg` ? 800 ? 600px; Transmission inspection or repair in a shop; service card photo.
+- `images/thumbnails/transmission.jpg` ? 160 ? 160px; Transmission inspection or repair in a shop; square service thumbnail.
+- `images/services/ac-heating.jpg` ? 800 ? 600px; Technician testing automotive air conditioning; service card photo.
+- `images/thumbnails/ac-heating.jpg` ? 160 ? 160px; Technician testing automotive air conditioning; square service thumbnail.
+- `images/services/suspension-alignment.jpg` ? 800 ? 600px; Vehicle on a wheel alignment rack; service card photo.
+- `images/thumbnails/suspension-alignment.jpg` ? 160 ? 160px; Vehicle on a wheel alignment rack; square service thumbnail.
+- `images/services/tires-wheels.jpg` ? 800 ? 600px; Technician inspecting tire tread and wheel; service card photo.
+- `images/thumbnails/tires-wheels.jpg` ? 160 ? 160px; Technician inspecting tire tread and wheel; square service thumbnail.
+- `images/services/battery-electrical.jpg` ? 800 ? 600px; Battery and electrical system testing; service card photo.
+- `images/thumbnails/battery-electrical.jpg` ? 160 ? 160px; Battery and electrical system testing; square service thumbnail.
+- `images/services/check-engine.jpg` ? 800 ? 600px; Diagnostic scan of a check-engine warning; service card photo.
+- `images/thumbnails/check-engine.jpg` ? 160 ? 160px; Diagnostic scan of a check-engine warning; square service thumbnail.
+- `images/services/ev-hybrid.jpg` ? 800 ? 600px; Technician safely servicing an electric or hybrid vehicle; service card photo.
+- `images/thumbnails/ev-hybrid.jpg` ? 160 ? 160px; Technician safely servicing an electric or hybrid vehicle; square service thumbnail.
+- `images/services/scheduled-maintenance.jpg` ? 800 ? 600px; Routine vehicle maintenance inspection; service card photo.
+- `images/thumbnails/scheduled-maintenance.jpg` ? 160 ? 160px; Routine vehicle maintenance inspection; square service thumbnail.
+- `images/services/pre-purchase-inspection.jpg` ? 800 ? 600px; Mechanic inspecting a used car before purchase; service card photo.
+- `images/thumbnails/pre-purchase-inspection.jpg` ? 160 ? 160px; Mechanic inspecting a used car before purchase; square service thumbnail.
+- `images/features/free-inspection.jpg` ? 640 ? 480px; Technician taking inspection photos of a vehicle.
+- `images/thumbnails/free-inspection.jpg` ? 160 ? 160px; Technician taking inspection photos of a vehicle; square feature thumbnail.
+- `images/features/shuttle.jpg` ? 640 ? 480px; Shop shuttle vehicle ready for a customer.
+- `images/thumbnails/shuttle.jpg` ? 160 ? 160px; Shop shuttle vehicle ready for a customer; square feature thumbnail.
+- `images/features/same-day.jpg` ? 640 ? 480px; Technician completing a repair in a service bay.
+- `images/thumbnails/same-day.jpg` ? 160 ? 160px; Technician completing a repair in a service bay; square feature thumbnail.
+- `images/features/transparent-pricing.jpg` ? 640 ? 480px; Advisor reviewing a repair estimate with a customer.
+- `images/thumbnails/transparent-pricing.jpg` ? 160 ? 160px; Advisor reviewing a repair estimate with a customer; square feature thumbnail.
+- `images/features/financing.jpg` ? 640 ? 480px; Customer discussing repair payment options.
+- `images/thumbnails/financing.jpg` ? 160 ? 160px; Customer discussing repair payment options; square feature thumbnail.
+- `images/features/fleet.jpg` ? 640 ? 480px; Commercial fleet vehicles being serviced.
+- `images/thumbnails/fleet.jpg` ? 160 ? 160px; Commercial fleet vehicles being serviced; square feature thumbnail.
+- `images/badges/smog-check.jpg` ? 400 ? 300px; California smog inspection equipment.
+- `images/badges/bar-registered.jpg` ? 400 ? 300px; Neutral BAR registration badge graphic using the real shop details.
+- `images/badges/ase-certified.jpg` ? 400 ? 300px; ASE certification badge graphic, only if certification is confirmed.
+- `images/badges/warranty.jpg` ? 400 ? 300px; Warranty badge using the confirmed shop terms.
+- `images/gallery/gallery-1.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 1.
+- `images/gallery/gallery-2.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 2.
+- `images/gallery/gallery-3.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 3.
+- `images/gallery/gallery-4.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 4.
+- `images/gallery/gallery-5.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 5.
+- `images/gallery/gallery-6.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 6.
+- `images/gallery/gallery-7.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 7.
+- `images/gallery/gallery-8.jpg` ? 1200 ? 900px; Approved shop, team, or repair photo for gallery position 8.
+- `images/gallery/before-1.jpg` ? 1200 ? 600px; Vehicle or component before a repair, aligned for comparison.
+- `images/gallery/after-1.jpg` ? 1200 ? 600px; Same vehicle or component after repair, matching the before framing.
+- `images/reviews/avatar-1.jpg` ? 200 ? 200px; Customer portrait, only with permission; otherwise use an approved generic image.
+- `images/reviews/avatar-2.jpg` ? 200 ? 200px; Customer portrait, only with permission; otherwise use an approved generic image.
+- `images/reviews/avatar-3.jpg` ? 200 ? 200px; Customer portrait, only with permission; otherwise use an approved generic image.
+- `images/team/team-1.jpg` ? 800 ? 800px; Shop owner or technician portrait, approved for publication.
+- `images/placeholder.jpg` ? 800 ? 600px; Neutral labeled fallback image if an image file is missing.
